@@ -1,3 +1,10 @@
 .DS_Store
 .ipynb_checkpoints
 __pycache__
+
+# Model artifacts (can be regenerated from notebook)
+saved_model/
+tflite/
+tfjs_model/
+fruits_cnn.tflite
+best_model.keras
