@@ -1,4 +1,4 @@
-# 🍎 CNN Image Classification — Fruits 360
+# CNN Image Classification — Fruits 360
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.19-orange?logo=tensorflow)
